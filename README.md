@@ -65,3 +65,9 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+![Screenshot 2025-05-20 135548](https://github.com/user-attachments/assets/764bac27-88cb-44bf-b4ad-ca68d5169d9f)
+~~~
+developed by 
+name:yashwanth.asv
+reg no:212224230309
